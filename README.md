@@ -40,8 +40,8 @@ root                    (project root folder)
 ## Authors
 ---
 * # TODO: Add your names and emails here
-Charlet Mbizi - charletmbizim@gmail.com
-Hyrum - hyrum.hilamatu@gmail.com
-Stephanie - stephaniemelissal709@gmail.com
-Blake Hollingsworth - hol20048@byui.edu
-Martin Sander - msander1987@gmail.com
+* Hyrum Hilamatu - hyrum.hilamatu@gmail.com
+* Martin Sander msander1987@gmail.com
+* Stephanie Sarah Noel - stephaniemelissal709@gmail.com
+* Charlet Mbizi charletmbizim@gmail.com
+* Blake Hollingsworth - hol20048@byui.edu
